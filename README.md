@@ -42,6 +42,9 @@
 - ![social](https://github.com/SachiDutta/SachiDutta/assets/109479099/43cccda4-8142-4236-878f-d3fab181753a)
  [twitter@sachi_dutt90002](https://twitter.com/sachi_dutt90002)
 
+- ![threads](https://github.com/SachiDutta/SachiDutta/assets/109479099/695b3956-f1dd-4a55-b05c-816e4a5da172)
+ [threads@sachidutta_504](https://www.threads.net/@sachidutta_504)
+
  
     
 
