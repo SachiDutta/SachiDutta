@@ -1,6 +1,6 @@
 <h3 align="left">About me: Nothing,just curious about stuffs.</h3>
 
-<img align='right' alt='space' width='450' src='https://cdn.dribbble.com/users/1260392/screenshots/3087645/media/fbd73ca06e8383c9b81f873a20b529f1.gif
+<img align='right' alt='space' width='450' src='![image](https://github.com/SachiDutta/SachiDutta/assets/109479099/a93f81ed-db2a-40a0-887f-5f9ef3a7da33)
 '>
 
 - Working on **my carrots time management skills.**
