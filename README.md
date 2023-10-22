@@ -1,9 +1,9 @@
-<h3 align="left">About me: Nothing, just curious about stuffs.
+<h3 align="left">About me: Nothing, just curious about stuffs.</h3>
   
   ![944245364490395759](https://github.com/SachiDutta/SachiDutta/assets/109479099/3e8b64aa-26cc-4b5f-928d-972716acdbed)
 
 
-</h3>
+
 
 
 - Working on **my carrots time management skills.**
