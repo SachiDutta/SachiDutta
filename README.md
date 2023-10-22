@@ -39,8 +39,8 @@
 - ![discord (1)](https://github.com/SachiDutta/SachiDutta/assets/109479099/f4705192-6820-4ea6-9bf9-3a8b2829ba92)
 [discord@Sachi9475](https://discord.com/channels/@me)
 
-- ![twitter](https://github.com/SachiDutta/SachiDutta/assets/109479099/413923b4-af22-4ff1-8e65-d2a519118f14)
-[twitter@sachi_dutt90002](https://twitter.com/sachi_dutt90002)
+- ![social](https://github.com/SachiDutta/SachiDutta/assets/109479099/43cccda4-8142-4236-878f-d3fab181753a)
+ [twitter@sachi_dutt90002](https://twitter.com/sachi_dutt90002)
 
  
     
