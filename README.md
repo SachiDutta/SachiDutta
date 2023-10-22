@@ -27,14 +27,21 @@
 
 
 
+
 <h5 align='left'> Socials: </h5>
 
  
-  ![twitter (1)](https://github.com/SachiDutta/SachiDutta/assets/109479099/848f98d5-e639-4706-952f-f1e3f6de15e2)
-  **[sachi_dutt90002](https://twitter.com/sachi_dutt90002)** 
-   
-  ![discord](https://github.com/SachiDutta/SachiDutta/assets/109479099/63a3741f-ccf7-48e6-a827-378e1033433d)
-  **[Sachi#9475](https://discord.com/channels/@me)**
+  
+
+- ![logo (1)](https://github.com/SachiDutta/SachiDutta/assets/109479099/5a4afb3f-cf82-49c3-8d15-2550c6813608)
+ [Github@SachiDutta](https://github.com/SachiDutta)
+
+- ![discord (1)](https://github.com/SachiDutta/SachiDutta/assets/109479099/f4705192-6820-4ea6-9bf9-3a8b2829ba92)
+[discord@Sachi9475](https://discord.com/channels/@me)
+
+- ![twitter](https://github.com/SachiDutta/SachiDutta/assets/109479099/413923b4-af22-4ff1-8e65-d2a519118f14)
+[twitter@sachi_dutt90002](https://twitter.com/sachi_dutt90002)
+
  
     
 
