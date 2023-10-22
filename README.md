@@ -20,13 +20,16 @@
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
+
 <h4 align='left'>Stats:</h4>
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=SachiDutta&theme=dark&rank_icon=github&hide=contribs,prs)
 
 
+
 <h5 align='left'> Socials: </h5>
 
+ 
   ![twitter (1)](https://github.com/SachiDutta/SachiDutta/assets/109479099/848f98d5-e639-4706-952f-f1e3f6de15e2)
   **[sachi_dutt90002](https://twitter.com/sachi_dutt90002)** 
    
