@@ -1,7 +1,7 @@
 <h1 align='left'>yo!</h1>
 
 
-<h2 align="left">About me: Just a 17 yr old mortal curious about stuffs.</h2>
+<h2 align="left">About Me: Just a 17 yr old mortal curious about stuffs.</h2>
   
   
 
