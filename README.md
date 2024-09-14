@@ -1,4 +1,4 @@
-<h1 align='left'>yo!</h1>
+<h1> yo! <img src="https://media.tenor.com/sTRIJIgIh2gAAAAi/bun-hop-transparent-bunny.gif" width="60px" height="60px"> </h1>
 
 
 <h2 align="left">Me: Just a 17 yr old mortal curious about stuff.</h2>
@@ -16,19 +16,23 @@
 
 
 
-## <h3 align="left">Language:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## <h3 align="left">Tech Stats:</h3>
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="54" alt="python"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="54" alt="html5"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="54" alt="css3"  />
+  
+</div>
 
 
-
-## <h4 align='left'>Stats:</h4>
+## <h3 align='left'>GitHub Stats:</h3>
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=SachiDutta&theme=dark&rank_icon=github&hide=contribs,prs)
 
 
 
 
-## <h5 align='left'> Socials: </h5>
+## <h3 align='left'> Socials: </h3>
 
  
   
@@ -38,6 +42,8 @@
 
 > - ![discord (1)](https://github.com/SachiDutta/SachiDutta/assets/109479099/f4705192-6820-4ea6-9bf9-3a8b2829ba92)
 [discord@Sachi9475](https://discord.com/channels/@me)
+
+
 
 
 
