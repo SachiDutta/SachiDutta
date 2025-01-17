@@ -1,7 +1,7 @@
 <h1> yo! <img src="https://media.tenor.com/sTRIJIgIh2gAAAAi/bun-hop-transparent-bunny.gif" width="60px" height="60px"> </h1>
 
 
-<h2 align="left">Me: Just a 17 yr old mortal curious about stuff.</h2>
+<h2 align="left">Me: Just a 18 yr old mortal curious about stuff.</h2>
   
   
 
