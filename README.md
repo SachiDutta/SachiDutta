@@ -8,7 +8,7 @@
 
 - Working on **my carrots time management skills.**
 
-- Learning **to upskill my dern techie knowledge.**
+- Upskilling more **in techie stuff.**
 
 - Ask me about: **Nothing ;)**
 
